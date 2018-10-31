@@ -25,3 +25,4 @@
 	
 	
 结果呈现：访问http://localhost/comsumer/dept/list
+eureka服务注册中心：http://eureka7001.com:7001、http://eureka7002.com:7002、http://eureka7003.com:7003
